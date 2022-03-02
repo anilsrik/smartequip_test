@@ -4,7 +4,7 @@
 	Windows 10
 	Python v3.5 and less than v3.10
 
-*Instructions to run the program*
+**Instructions to run the program**
 1. Clone the repo to a local folder
 2. Open Power Shell
 3. Navigate to the unzipped folder
